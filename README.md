@@ -6,7 +6,7 @@ A recipe for setting up system-wide SSL certs on Ubuntu / Debian systems.
 REQUIREMENTS
 ============
 
-Ubuntu or Debian Linux system and an encrypted data bag named "ssl".
+Ubuntu, Debian or Redhat Linux system and an encrypted data bag named "ssl".
 
 ATTRIBUTES
 ==========
